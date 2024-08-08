@@ -1,0 +1,220 @@
+{
+    "sentiments": {
+        "segments": [
+            {
+                "text": "Hi.",
+                "start_word": 0,
+                "end_word": 0,
+                "sentiment": "neutral",
+                "sentiment_score": 0.2001953125
+            },
+            {
+                "text": "Thank you for calling premier phone services.",
+                "start_word": 1,
+                "end_word": 7,
+                "sentiment": "positive",
+                "sentiment_score": 0.467041015625
+            },
+            {
+                "text": "This call may be recorded for quality and training purposes. My name is Tom and I'll be assisting. You. How are you today?",
+                "start_word": 8,
+                "end_word": 30,
+                "sentiment": "neutral",
+                "sentiment_score": 0.251220703125
+            },
+            {
+                "text": "I'm good. Thank you.",
+                "start_word": 31,
+                "end_word": 34,
+                "sentiment": "positive",
+                "sentiment_score": 0.440673828125
+            },
+            {
+                "text": "Alright. That's good. Can I please have your name? My name is Beth. Okay. Beth. What is your last name? Idle. Could you spell that for me? Yeah. It's just like it sounds, I d l e. Okay. I'm not showing Beth idol in our system, but there is an Elizabeth. Oh, yeah. That's my full first name. Yeah. That's me. Okay, Miss S. What I do for you today? Erin need some help with my phone plans? Sure. I can help you? Help you with that. Can you tell me what plan you currently have? I have the Platinum plan. Okay. Platinum. How many people do you have on your plan right now? Got four people, myself employed. Alright. And how can I help you out with you plan today, ma'am? You can help me cancel it.",
+                "start_word": 35,
+                "end_word": 172,
+                "sentiment": "neutral",
+                "sentiment_score": 0.0079345703125
+            },
+            {
+                "text": "I don't wanna continue my service with you guys.",
+                "start_word": 173,
+                "end_word": 181,
+                "sentiment": "negative",
+                "sentiment_score": -0.400634765625
+            },
+            {
+                "text": "Alright. Well, I'm very sorry to hear that, miss Idle. I can assist you and cancel your plan today if I may ask, do you mind explaining why you wish to terminate your service plan?",
+                "start_word": 182,
+                "end_word": 216,
+                "sentiment": "neutral",
+                "sentiment_score": -0.26220703125
+            },
+            {
+                "text": "I mean, I don't really feel like I owe you an explanation for why I wanna cancel. No.",
+                "start_word": 217,
+                "end_word": 234,
+                "sentiment": "negative",
+                "sentiment_score": -0.416015625
+            },
+            {
+                "text": "Of course, I, will just help us better serve our customers in future by understanding the nature of just dissatisfaction. We can make improvements to our products. You mean that you can keep from going bankrupt? Yeah. In so many words, we want customers to be Saas with their service to continue the business with us. Like I said, you don't have provide me an explanation, but it would be very useful to us to have that insight into what the issue is for three plan. And the reasons why you're canceling it. Oh, yeah.",
+                "start_word": 235,
+                "end_word": 329,
+                "sentiment": "neutral",
+                "sentiment_score": -0.145263671875
+            },
+            {
+                "text": "I I know I was rude. I'm sorry.",
+                "start_word": 330,
+                "end_word": 337,
+                "sentiment": "neutral",
+                "sentiment_score": -0.27783203125
+            },
+            {
+                "text": "I'm just kind of upset because I just got this phone, like, two weeks ago, and I'm already having to cancel.",
+                "start_word": 338,
+                "end_word": 358,
+                "sentiment": "negative",
+                "sentiment_score": -0.41748046875
+            },
+            {
+                "text": "So, basically, my issue is with the graphics. K. What seems to be the issue with the graphics?",
+                "start_word": 359,
+                "end_word": 376,
+                "sentiment": "neutral",
+                "sentiment_score": -0.21435546875
+            },
+            {
+                "text": "Precisely. Well, they just kind of suck. I mean, this phone is, like, brand new, and the quality of some of the games that I play is just awful. Like, I can't hardly see what's even on the screen. The, the things will go fuzzy and blurry, sometimes it won't load images, like, it'll crash if I try to to load an image or play a game that's super high res. The... And the emojis in the text messages. It won't load those, much less any pictures or gifts or anything that people send to me. And whenever I tried to. Stream videos that are a higher resolution, like, on Youtube, it just completely crashes the app. It just can't handle that kind of resolution. So you can even take pictures on this thing either because they're so out of focus. It's just super disappointing, especially since I got the platinum plan for my whole family. I'm spending over fifty bucks a month, and it's just totally not worth it when everyone is complaining to me about how bad the video and pictures are. And I know I can get a better phone for about the same price somewhere else.",
+                "start_word": 377,
+                "end_word": 576,
+                "sentiment": "negative",
+                "sentiment_score": -0.619140625
+            },
+            {
+                "text": "I guess that's what I should've done in the first place, but my husband really recommended you guys, so I listen to her. I I guess I was just really expecting more. K. I understand that you're just pointed about the quality graphics on the phone. Yeah. It's not just the phone either. My dad has one of the player tablets that he uses for Zoom meetings for his work.",
+                "start_word": 577,
+                "end_word": 646,
+                "sentiment": "neutral",
+                "sentiment_score": -0.037109375
+            },
+            {
+                "text": "And he says everyone's always was complaining that his video freezes or he breaks up, and they can't understand him. So he's unable to use the audio because that's the only way the tablet will work. Which sucks because during Covid and everything, I think it's still important to try to feel like you're still in that face to face environment, you know? So you can't even do that with this thing.",
+                "start_word": 647,
+                "end_word": 718,
+                "sentiment": "negative",
+                "sentiment_score": -0.486572265625
+            },
+            {
+                "text": "Okay. And just for reference, can you tell me the names of all the devices you have your plan? That way, we can see if there's a problem with the manufacturing level? Yeah. I have one Strider, x s not in nine. That one's from twenty twenty. I've got two of the fidget, x xs r sevens from twenty nineteen. And the player tablet is a v two zero nine zero. That's dated twenty fifteen. Okay. I would guess that the player tablet might be lacking graphics features because it's a bit of an older device compared to the others the actually are going to stop making those parts, the that's part that model here. And maybe while you're having problems with the particular device. Oh, yeah. I guess that would make sense. Could I maybe see if we can exchange your device to a new model with the player tablet that might serve your needs better. No. I don't think so.",
+                "start_word": 719,
+                "end_word": 880,
+                "sentiment": "neutral",
+                "sentiment_score": -0.07000732421875
+            },
+            {
+                "text": "I'm just afraid it would have the same problems. So I'm just gonna cancel.",
+                "start_word": 881,
+                "end_word": 894,
+                "sentiment": "negative",
+                "sentiment_score": -0.52099609375
+            },
+            {
+                "text": "I can completely understand concerns.",
+                "start_word": 895,
+                "end_word": 899,
+                "sentiment": "neutral",
+                "sentiment_score": -0.30859375
+            },
+            {
+                "text": "Again, I'm I'm very sorry you experienced this frustration. Well, I mean, it's not your fault. So, like I said, I'm sorry if I'm being rude. It's just that I definitely haven't gotten my money's worth with this plan.",
+                "start_word": 900,
+                "end_word": 938,
+                "sentiment": "negative",
+                "sentiment_score": -0.491455078125
+            },
+            {
+                "text": "And I just need to get something else that meets my needs and those is my family.",
+                "start_word": 939,
+                "end_word": 955,
+                "sentiment": "neutral",
+                "sentiment_score": -0.2293701171875
+            },
+            {
+                "text": "You know, these days, we've realized rely so much in our devices to even do our jobs. So they need to meet basic standards as far as the graphics and and video and stuff as long as well as supporting streaming because we're all watching movies at home. Does that make sense? Yeah. That make sense. Well, I can get through your order for you today Again, is there any chance you might be interested in another device we could offer you? Oh, I don't think so. I'm I'm just just gonna try another company. Alright. Well, we're very sorry to lose your business. To start can I have your account number? Yeah. It's three two five one two five six seven five nine one four. K. And can you confirm your password for me? It's busy as heck x thirty one, the b a h and the x are all capitalized. Alright. Okay. I got that. And your phone number is still four four four eight one four nine nine one three I mean, it is today, tomorrow, it'll be something different after to I get a new phone. Oh, well, will allow you to transfer your phone number even if you cancel. Choose a new device with another company. You can still take the phone number with you. Oh, okay.",
+                "start_word": 956,
+                "end_word": 1177,
+                "sentiment": "neutral",
+                "sentiment_score": 0.00090789794921875
+            },
+            {
+                "text": "That's how awesome.",
+                "start_word": 1178,
+                "end_word": 1180,
+                "sentiment": "positive",
+                "sentiment_score": 0.5625
+            },
+            {
+                "text": "Okay. And Also need to confirm your billing address? My address is nine nine eight Lock Drive, in Ko Cove Main. The Zip code there is one one zero zero two. K. You spell Lock? It's l o c k w o o d e. Sorry. It should've have said there was an e on the end of that. No. That's perfectly fine. Alright. So I have down that I am canceling your plan right now. You should start receiving charges the billing cycle. If for some reason, you continue to receive charges, this contact support who will fix this problem for you. Alright.",
+                "start_word": 1181,
+                "end_word": 1284,
+                "sentiment": "neutral",
+                "sentiment_score": -0.04522705078125
+            },
+            {
+                "text": "Thanks for your help.",
+                "start_word": 1285,
+                "end_word": 1288,
+                "sentiment": "positive",
+                "sentiment_score": 0.505859375
+            },
+            {
+                "text": "Not a problem.",
+                "start_word": 1289,
+                "end_word": 1291,
+                "sentiment": "neutral",
+                "sentiment_score": 0.1793212890625
+            },
+            {
+                "text": "Is there anything else I can I help you with? No. That's all I needed. Alright.",
+                "start_word": 1292,
+                "end_word": 1307,
+                "sentiment": "neutral",
+                "sentiment_score": 0.06256103515625
+            },
+            {
+                "text": "Well, thank you for calling, and I hope you have a nice day.",
+                "start_word": 1308,
+                "end_word": 1320,
+                "sentiment": "positive",
+                "sentiment_score": 0.73095703125
+            },
+            {
+                "text": "Yep.",
+                "start_word": 1321,
+                "end_word": 1321,
+                "sentiment": "neutral",
+                "sentiment_score": 0.330078125
+            },
+            {
+                "text": "You too.",
+                "start_word": 1322,
+                "end_word": 1323,
+                "sentiment": "positive",
+                "sentiment_score": 0.393798828125
+            },
+            {
+                "text": "Bye. Bye.",
+                "start_word": 1324,
+                "end_word": 1325,
+                "sentiment": "neutral",
+                "sentiment_score": 0.2052001953125
+            }
+        ],
+        "average": {
+            "sentiment": "neutral",
+            "sentiment_score": -0.17546754675467546
+        }
+    }
+}

@@ -13,8 +13,12 @@ zelda_expert_assistant = client.beta.assistants.create(
   name="Zelda expert",
   instructions="""You're an expert on the video game Zelda, and you're going to answer my questions about the game using the file I've given you.""",
   model="gpt-4-turbo-preview",
-  tools=[{"type": "retrieval"}],
-  file_ids=[file.id]
+  tools=[{"type": "file_search"}],
+   tool_resources={
+    "code_interpreter": {
+      "file_ids": [file.id]
+    }
+   }
 )
 thread = client.beta.threads.create()
 

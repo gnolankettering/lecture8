@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Website</title>
+</head>
+<body>
+    <h1>News Article Submission</h1>
+    {{article}}
+    <form action="/submit" method="post">
+        <label for="facts">Facts:</label>
+        <input type="text" id="facts" name="facts"><br><br>
+        
+        <label for="tone">Tone:</label>
+        <input type="text" id="tone" name="tone"><br><br>
+        
+        <label for="length">Length:</label>
+        <input type="text" id="length" name="length"><br><br>
+        
+        <label for="style">Style:</label>
+        <input type="text" id="style" name="style"><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
